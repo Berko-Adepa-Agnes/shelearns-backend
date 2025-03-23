@@ -25,7 +25,8 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "mongoose": "^7.6.3",
-    "mustache": "^4.2.0"
+    "mustache": "^4.2.0",
+    "puppeteer": "19.8.0"
   },
   "devDependencies": {
     "@types/express": "^5.0.1",
