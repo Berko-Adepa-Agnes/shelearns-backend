@@ -4,8 +4,8 @@
   "description": "SheLearns Backend",
   "main": "index.js",
   "scripts": {
+    "build": "yarn",
     "start": "node index.js",
-    "build": "npm install",
     "dev": "nodemon index.js --trace-deprecation",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
